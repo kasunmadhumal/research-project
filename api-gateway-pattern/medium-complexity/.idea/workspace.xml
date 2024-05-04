@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="743b1d78-61dd-4b63-90ee-aadd10f550b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../simple-complexity/api-gateway-simple-complexity/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-complexity/api-gateway-simple-complexity/src/main/java/com/research/apigatewaysimplecomplexity/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-complexity/api-gateway-simple-complexity/src/main/java/com/research/apigatewaysimplecomplexity/entity/AccountLastTransactionDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-complexity/api-gateway-simple-complexity/src/main/java/com/research/apigatewaysimplecomplexity/entity/AccountLastTransactionEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-complexity/api-gateway-simple-complexity/src/main/java/com/research/apigatewaysimplecomplexity/repository/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-complexity/api-gateway-simple-complexity/src/main/java/com/research/apigatewaysimplecomplexity/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity-no-patterns/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity-no-patterns/src/main/java/com/research/cacheasidehighcomplexitynopatterns/controller/JsonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity-no-patterns/src/main/java/com/research/cacheasidehighcomplexitynopatterns/entity/JsonObjectTransactionEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity-no-patterns/src/main/java/com/research/cacheasidehighcomplexitynopatterns/repository/JsonObjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity-no-patterns/src/main/java/com/research/cacheasidehighcomplexitynopatterns/service/JsonObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity/src/main/java/com/research/cacheasidehighcomplexity/Config/JsonObjectTransactionEntitySerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity/src/main/java/com/research/cacheasidehighcomplexity/Config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity/src/main/java/com/research/cacheasidehighcomplexity/controller/JsonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity/src/main/java/com/research/cacheasidehighcomplexity/entity/JsonObjectTransactionEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity/src/main/java/com/research/cacheasidehighcomplexity/repository/JsonObjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity/src/main/java/com/research/cacheasidehighcomplexity/service/JsonObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/high-complexity/cache-aside-high-complexity/src/main/java/com/research/cacheasidehighcomplexity/service/RedisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity-no-patterns/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity-no-patterns/src/main/java/com/research/cacheasidemediumcomplexitynopatterns/controller/JsonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity-no-patterns/src/main/java/com/research/cacheasidemediumcomplexitynopatterns/entity/JsonObjectTransactionEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity-no-patterns/src/main/java/com/research/cacheasidemediumcomplexitynopatterns/repository/JsonObjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity-no-patterns/src/main/java/com/research/cacheasidemediumcomplexitynopatterns/service/JsonObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity/src/main/java/com/research/cacheasidemediumcomplexity/Config/JsonObjectTransactionEntitySerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity/src/main/java/com/research/cacheasidemediumcomplexity/Config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity/src/main/java/com/research/cacheasidemediumcomplexity/controller/JsonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity/src/main/java/com/research/cacheasidemediumcomplexity/entity/JsonObjectTransactionEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity/src/main/java/com/research/cacheasidemediumcomplexity/repository/JsonObjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity/src/main/java/com/research/cacheasidemediumcomplexity/service/JsonObjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/medium-complexity/cache-aside-medium-complexity/src/main/java/com/research/cacheasidemediumcomplexity/service/RedisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity-no-patterns/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity-no-patterns/src/main/java/com/research/cacheasidesimplecomplexitynopatterns/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity-no-patterns/src/main/java/com/research/cacheasidesimplecomplexitynopatterns/entity/AccountLastTransactionEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity-no-patterns/src/main/java/com/research/cacheasidesimplecomplexitynopatterns/repository/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity-no-patterns/src/main/java/com/research/cacheasidesimplecomplexitynopatterns/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity/src/main/java/com/research/cacheasidesimplecomplexity/Redis/Config/AccountLastTransactionEntitySerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity/src/main/java/com/research/cacheasidesimplecomplexity/Redis/Config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity/src/main/java/com/research/cacheasidesimplecomplexity/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity/src/main/java/com/research/cacheasidesimplecomplexity/entity/AccountLastTransactionEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity/src/main/java/com/research/cacheasidesimplecomplexity/repository/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity/src/main/java/com/research/cacheasidesimplecomplexity/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cache-aside-pattern/simple-complexity/cache-aside-simple-complexity/src/main/java/com/research/cacheasidesimplecomplexity/service/RedisService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2frK9dq2shCXZ69c9BCKBrUlkZU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.ApiGatewayMediumComplexityNoPatternApplication">
+    <configuration name="ApiGatewayMediumComplexityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="api-gateway-medium-complexity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.research.apigatewaymediumcomplexity.ApiGatewayMediumComplexityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayMediumComplexityNoPatternApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="api-gateway-medium-complexity-no-pattern" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.research.apigatewaymediumcomplexitynopattern.ApiGatewayMediumComplexityNoPatternApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-563d888c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="743b1d78-61dd-4b63-90ee-aadd10f550b6" name="Changes" comment="" />
+      <created>1714553606924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714553606924</updated>
+      <workItem from="1714553608042" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
